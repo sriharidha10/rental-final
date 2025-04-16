@@ -27,10 +27,7 @@ function App() {
           <div className="hero-content">
             <h1>Find Your Perfect Ride</h1>
             <p>Choose from our wide selection of vehicles. Whether you need a car, bike, or bicycle, we've got you covered.</p>
-            <div className="hero-buttons">
-              <Link to="/cars" className="hero-button primary">Browse Cars</Link>
-              <Link to="/bikes" className="hero-button secondary">Browse Bikes</Link>
-            </div>
+           
           </div>
         </div>
 
